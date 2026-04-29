@@ -1,8 +1,8 @@
 class Infrapilot < Formula
   desc "InfraPilot CLI — deploy and manage InfraPilot instances"
   homepage "https://infrapilot.org"
-  url "https://registry.npmjs.org/@infrapilot/cli/-/cli-0.2.0.tgz"
-  sha256 "d000230a0097d97506459078a5ac6d253c5fb42e251762be5905d0c9b5c3a815"
+  url "https://registry.npmjs.org/@infrapilot/cli/-/cli-0.2.1.tgz"
+  sha256 "6852e8eed448905e276898c86f28a69912c3c8fe00f0e7a719d9806a363d868e"
   license "AGPL-3.0"
 
   depends_on "node"
